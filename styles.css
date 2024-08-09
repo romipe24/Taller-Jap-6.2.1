@@ -1,5 +1,15 @@
 body {
     background-color: rgb(255, 255, 165);
+    font-family: 'Times New Roman', Times, serif;
+    color: darkorange;
+}
+h1{
+    font-family: cursive;
+    color: violet;
+}
+h2{
+    font-family: cursive;
+    color: violet;
 }
 
 .image{
@@ -19,4 +29,7 @@ body {
 }
 .link-button:hover{
     background-color: violet;
+  }
+p{
+    margin: 20px;
 }
